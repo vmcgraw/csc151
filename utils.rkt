@@ -1,4 +1,11 @@
 #lang racket
+;;; File:
+;;;   utils.rkt
+;;; Author:
+;;;   Valerie McGraw
+;;; Summary:
+;;;   A few sample utilities, created as part of a lab on GitHub.
+
 (require gigls/unsafe)
 ;;; Procedure:
 ;;;   nums
