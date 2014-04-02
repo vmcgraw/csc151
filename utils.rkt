@@ -1,6 +1,6 @@
 #lang racket
 ;;; File:
-;;;   utils.rkt
+;;;   csc151/utils.rkt
 ;;; Author:
 ;;;   Valerie McGraw
 ;;; Summary:
